@@ -1,0 +1,10 @@
+.inner_main img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+  }
+
+  var name
+	nameDaniel = prompt("Hello, what is your name?")
+	alert("Hello " + name + "! Your stress free move is just a call away!")

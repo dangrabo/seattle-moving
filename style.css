@@ -1,0 +1,131 @@
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+body {
+	background-image: url('images/seattle.jpg');
+    background-repeat:no-repeat;
+    background-size:cover;
+	overflow-x: hidden;
+
+}
+.header{
+	width: 100%;
+	height: 100px;
+	display: block;
+	background-color: black;
+	
+	
+}
+
+.inner_header{
+	width: 1200px;
+	height: 100%;
+	display: block;
+	margin: 0 auto;
+	
+}
+
+.logo_container{
+	height: 100%;
+	display: table;
+	float: left;
+}
+
+.logo_container h1{
+	display: table-cell;
+	vertical-align: middle;
+	color: white;
+	height: 100%;
+	font-family: 'Dosis', sans-serif;
+	font-size: 42px;
+}
+
+.logo_seattle{
+	font-family: 'Dancing Script', cursive;
+	background: repeating-linear-gradient(45deg, #fefaf9, #D4AF37);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+}
+
+.navigation{
+	float: right;
+	height: 100%;
+	list-style-type: none
+}
+
+.navigation a{
+	height: 100%;
+	display: table;
+	float: left;
+	padding: 0px 20px;
+}
+
+.navigation a:last-child{
+	padding-right: 0;
+}
+
+.navigation a li{
+	display: table-cell;
+	vertical-align: middle;
+	font-family: 'Dosis', sans-serif;
+	color: white;
+	font-size: 20px;
+	
+
+}
+
+.nav_button:hover{
+	background: repeating-linear-gradient(45deg, #fefaf9, #D4AF37);
+	-webkit-text-fill-color: transparent;
+	-webkit-background-clip: text;
+	
+}
+
+
+.footer{
+
+	width: 100vw;
+	padding: 10px 0;
+	background-color: black;
+	
+}
+
+.inner_footer{
+	height: 200px;
+	width: 100%;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	
+
+}
+
+.footer1{
+	color: white;
+	padding-left: 30px;
+	padding-top: 60px;
+	
+}
+
+.footer2 a{
+	color: white;
+	padding: 10px;
+	list-style-type: none;
+	float: left;
+	font-size: 28px;
+	padding-top: 60px;
+	font-family: 'Dosis', sans-serif;
+}
+
+.footer3{
+	color: white;
+	font-family: 'Dosis', sans-serif;
+	padding-right: 30px;
+	padding-top: 60px;
+	
+}
+	
