@@ -1,5 +1,5 @@
 # Seattle Moving Co.
-### Final project for an early web-design class. A website for a mock moving company. 
+### Final project for an early web-design class - a website for a mock moving company. 
 ---
 ![image](https://github.com/user-attachments/assets/7eb77572-addf-4885-bb80-756d6ed48c3e)
 ---
