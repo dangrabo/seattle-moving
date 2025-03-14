@@ -1,5 +1,13 @@
-# seattle-moving
-Final project for an early web-design class. Created a website for a mock moving company. 
+# Seattle Moving Co.
+### Final project for an early web-design class. Created a website for a mock moving company. 
+---
+![image](https://github.com/user-attachments/assets/7eb77572-addf-4885-bb80-756d6ed48c3e)
+---
+![image](https://github.com/user-attachments/assets/856c9c97-7184-4fce-b15a-e942be5eba00)
+---
+![image](https://github.com/user-attachments/assets/f25102f3-cfce-4510-b648-259b3a3a567c)
+---
+
 
 This project was early on in my educaton. I am aware that there are many bad practices used here. It is not
 built with responsive design in mind. It also violates many style conventions such as the use of internal styling.
